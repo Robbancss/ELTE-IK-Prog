@@ -1,0 +1,9 @@
+3 2
+Budapest
+Pecs
+Dombovar
+Golya
+Sas
+0 0
+3 4
+5 6

@@ -1,7 +1,0 @@
-1 4
-Pecs
-Sas
-Golya
-Varju
-Rigo
-1 2 0 1

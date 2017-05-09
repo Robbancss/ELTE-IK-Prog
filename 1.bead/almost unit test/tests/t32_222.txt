@@ -1,9 +1,0 @@
-3 2
-Pecs
-Szekszard
-Dombovar
-Sas
-Golya
-1 5
-3 4
-2 4

@@ -1,9 +1,0 @@
-1 3
-Gyor
-Sas
-Varju
-Rigo
-1
-0
-1
-
